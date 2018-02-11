@@ -1,0 +1,17 @@
+/* stylesheet.css */
+/* Style rule for the body element */
+body {
+ background-color:white;
+   background-image:url(pix/gradient1.png);
+   background-repeat:repeat-y
+}
+
+/* Style rule for the wrapper div */
+#wrapper{
+   width:900px;
+   margin:0 auto;
+   background-color:white;
+   border:solid 2px #4c2e16;
+   border-radius:20px;
+   box-shadow:8px 8px 8px black;
+}
